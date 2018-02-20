@@ -10,6 +10,17 @@ header {
     padding:5px;;background-color:black; color:#ca0303;
 }
 
+.circle {
+  width: 200px;
+  height: 200px;
+  border: 10px solid white;
+  border-radius: 50%;
+  background-image: url();
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .menu a {
   color: white;
   font-size: 1.2rem;
